@@ -1,4 +1,4 @@
-package com.fun.customsocialbutton;
+package com.fun.socialbutton;
 
 import android.annotation.TargetApi;
 import android.content.Context;

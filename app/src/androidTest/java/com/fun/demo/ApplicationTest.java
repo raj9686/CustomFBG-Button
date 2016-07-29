@@ -1,4 +1,4 @@
-package com.fun.customsocialbutton;
+package com.fun.demo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

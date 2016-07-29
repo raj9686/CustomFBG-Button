@@ -1,4 +1,4 @@
-package com.fun.customsocialbutton;
+package com.fun.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
